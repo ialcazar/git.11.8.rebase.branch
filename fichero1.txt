@@ -1,2 +1,2 @@
-Fichero1
+fichero1
 añadida una linea
